@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../BinaryGeneticAlgorithmTests/BinaryGeneticAlgorithmTests.csproj" Id="002d5686-821b-47d8-aeae-74db86f2f04b" />
+  <Project Path="BinaryGeneticAlgorithm.csproj" />
+</Solution>
